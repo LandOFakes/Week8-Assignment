@@ -23,12 +23,12 @@ I also changed the origin numbers to labels as directed within the assignment ob
 ## What I Noticed
 Cars with 4, 6, and 8 cylinders appeared more often than those with 3 or 5 cylinders. 4 cylinder vehicles held the highest count.
 
-For the horsepower and weight chart, I used different shades of purple to show the cylinder counts. ounce. The eight cylinder vehicles were mostly located in the upper right area of the graph.
+For the horsepower and weight chart, I used different shades of purple to show the cylinder counts. The eight cylinder vehicles were mostly located in the upper right area of the graph.
 
 My last chart looked at whether heavier cars had lower MPG. There was a downward trend, although the cars did not all follow the same pattern. While these graphs show relationships, they do not prove that one thing causes the other. 
 
 ## Running the Notebook
-Open the notebook in Google Colab, or Jupyter Notebook and run the cells from the tp to bottom.
+Open the notebook in Google Colab, or Jupyter Notebook and run the cells from the top to bottom.
 
 The code uses pandas, matplotlib, and seaborn. **YOU WILL NEED AN INTERNET CONNECTION** because the dataset loads from the UCI website. 
 
