@@ -10,9 +10,9 @@ For this assignment, I worked with the Auto MPG dataset. I cleaned up the missin
 
 ## Files 
 
-* 'PBrownIS362Week8.ipnyb': this file contains my code, charts, and explanations.
+*`PBrownIS362Week8.ipynb`: this Python notebook contains my code, charts, and explanations.
 
-* 'PBrownIS362Week8.docx': this file contains my written report and screenshots. 
+* `PBrownIS362Week8.docx`: this file contains my written report and screenshots. 
 
 ## Working With the Data 
 
